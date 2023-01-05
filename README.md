@@ -1,5 +1,6 @@
 
-![Front-End Developer (2)](https://user-images.githubusercontent.com/108381781/210224908-8aa09579-d33a-42b5-859e-f7c12d1b0877.png)
+<!-- ![Front-End Developer (2)](https://user-images.githubusercontent.com/108381781/210224908-8aa09579-d33a-42b5-859e-f7c12d1b0877.png) -->
+![Front-End Developer (1)](https://user-images.githubusercontent.com/108381781/210835480-bd3937c6-50dc-40f5-820c-aba4fd9cf9fc.gif)
 
 <h1 align="center">Hi 👋, I'm Durjoy Chandra paul</h1>
 <h3 align="center">A passionate frontend developer</h3> 
