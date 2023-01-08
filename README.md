@@ -28,3 +28,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoy-dcp&show_icons=true&locale=en&layout=compact" alt="durjoy-dcp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durjoy-dcp&show_icons=true&locale=en" alt="durjoy-dcp" /></p>
+
+<h3 align="left">Some Cool Projects of Mine</h3>
+<hr/>
+<h4>Victor</h4> 
+<a href="https://github.com/Durjoy-dcp/victor">Code</a> |
+<a href="https://victor-24hour.firebaseapp.com/">Live Website</a> 
+<img  alt="Coding" width="400" src="https://user-images.githubusercontent.com/108381781/211184526-2c92fd21-8093-4809-8cba-9ea134bbb1c5.gif">
+
+
