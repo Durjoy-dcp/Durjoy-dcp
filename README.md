@@ -32,8 +32,8 @@
 <h3 align="left">Some Cool Projects of Mine</h3>
 <hr/>
 <h4>Victor</h4> 
-<a href="https://github.com/Durjoy-dcp/victor" target="_blank">Code</a> |
-<a href="https://victor-24hour.firebaseapp.com/" target="_blank">Live Website</a> 
+<a href="https://github.com/Durjoy-dcp/victor" >Code</a> |
+<a href="https://victor-24hour.firebaseapp.com/" >Live Website</a> 
 
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/108381781/211184526-2c92fd21-8093-4809-8cba-9ea134bbb1c5.gif">
 
