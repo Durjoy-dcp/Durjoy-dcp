@@ -43,5 +43,8 @@
 
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/108381781/211184526-2c92fd21-8093-4809-8cba-9ea134bbb1c5.gif">
 
+<h4> Chrome extension: Quote of the day</h4> 
+<a href="https://github.com/Durjoy-dcp/Quote-of-the-day-extension" >Code</a> 
 
 
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/108381781/218262839-4b545044-44c7-48bb-9ecb-91b7dba77b64.mp4">
