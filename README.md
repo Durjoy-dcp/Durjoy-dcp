@@ -47,4 +47,4 @@
 <a href="https://github.com/Durjoy-dcp/Quote-of-the-day-extension" >Code</a> 
 
 
-<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/108381781/218262839-4b545044-44c7-48bb-9ecb-91b7dba77b64.mp4">
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/108381781/218262904-487ab31e-7103-48aa-9a75-36266acf5ef2.gif">
