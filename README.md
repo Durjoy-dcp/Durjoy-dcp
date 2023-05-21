@@ -4,7 +4,7 @@
 ![Hi,I am Durjoy](https://user-images.githubusercontent.com/108381781/211500743-f35d9bd0-f90b-4e05-9a11-abbeb58c847a.gif)
 
 <h1 align="center">Hi 👋, I'm Durjoy Chandra Paul</h1>
-<h3 align="center">A passionate frontend developer</h3> 
+<h3 align="center">A passionate Web Engineer </h3> 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy-dcp&label=Profile%20views&color=0e75b6&style=flat" alt="durjoy-dcp" /> </p>
