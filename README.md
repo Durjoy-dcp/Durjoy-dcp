@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://durjoy-paul.netlify.app/](https://durjoy-paul.netlify.app/)
 
-- 💬 Ask me about **react,MERN,frontend technologies**
+- 💬 Ask me about **Fullstack technologies and AI SAAS product**
 
 - 📫 How to reach me **pauldurjoychandra@gmail.com**
 
