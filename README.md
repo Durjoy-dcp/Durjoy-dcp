@@ -1,4 +1,5 @@
-![Copy of Hi,I am Durjoy](https://github.com/user-attachments/assets/1e346499-8f34-4aa3-91f6-80f04bd26182)
+![Copy of Hi,I am Durjoy (1)](https://github.com/user-attachments/assets/d5f69073-0c70-45d9-a0b5-43930518ed67)
+
 
 <!--![Front-End Developer (1)](https://user-images.githubusercontent.com/108381781/210835480-bd3937c6-50dc-40f5-820c-aba4fd9cf9fc.gif)-->
 
