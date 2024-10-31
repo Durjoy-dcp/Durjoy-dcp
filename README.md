@@ -16,14 +16,14 @@
 <a href="https://instagram.com/dcpmrpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dcpmrpaul" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoy-dcp&show_icons=true&locale=en&layout=compact" alt="durjoy-dcp" /></p>
 <h3 align="left">Skills:</h3>
 <p align="left">Data Scraping | NLP | Python | React.js | JavaScript(ES6) | Node.js | MongoDB | Express.js | Tailwind | Bootstrap</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoy-dcp&show_icons=true&locale=en&layout=compact" alt="durjoy-dcp" /></p>
 
- <br></br>
+ <br/>
 
 <h3 align="left" >Some Cool Projects of Mine</h3>
 <hr/>
