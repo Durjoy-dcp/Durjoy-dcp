@@ -1,7 +1,7 @@
+![Copy of Hi,I am Durjoy](https://github.com/user-attachments/assets/1e346499-8f34-4aa3-91f6-80f04bd26182)
 
-<!-- ![Front-End Developer (2)](https://user-images.githubusercontent.com/108381781/210224908-8aa09579-d33a-42b5-859e-f7c12d1b0877.png) -->
 <!--![Front-End Developer (1)](https://user-images.githubusercontent.com/108381781/210835480-bd3937c6-50dc-40f5-820c-aba4fd9cf9fc.gif)-->
-![Hi,I am Durjoy](https://user-images.githubusercontent.com/108381781/211500743-f35d9bd0-f90b-4e05-9a11-abbeb58c847a.gif)
+
 
 <h1 align="center">Hi 👋, I'm Durjoy Chandra Paul</h1>
 <h3 align="center">A passionate Research Enthusiast </h3> 
