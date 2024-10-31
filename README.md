@@ -3,7 +3,7 @@
 <!--![Front-End Developer (1)](https://user-images.githubusercontent.com/108381781/210835480-bd3937c6-50dc-40f5-820c-aba4fd9cf9fc.gif)-->
 
 
-<h1 align="center">Hi 👋, I'm Durjoy Chandra Paul</h1>
+<h1 align="center">Hi 👋, I'm Durjoy</h1>
 <h3 align="center">A passionate Research Enthusiast </h3> 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
